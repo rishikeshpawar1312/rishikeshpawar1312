@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React Native , Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-azure-six-33.vercel.app/](https://portfolio-azure-six-33.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://myportf-pi.vercel.app/](https://myportf-pi.vercel.app/)
 
 - 💬 Ask me about **Reactjs,Javascript, Coding**
 
 - 📫 How to reach me **spawar5501@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1UhfbhiNucZ-WPlPKWDbQ0k7YTRuK_iAp/view](https://drive.google.com/file/d/1tufhjm950JsDeDFfymsFZSiQZJkl1s7T/view?usp=drive_link))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1SYeHLcIHZesmRZPFSzC9KoaiTPw2p6op/view?usp=drive_link](https://drive.google.com/file/d/1SYeHLcIHZesmRZPFSzC9KoaiTPw2p6op/view?usp=drive_link))
 
 - ⚡ Fun fact **I am very Curious**
 
